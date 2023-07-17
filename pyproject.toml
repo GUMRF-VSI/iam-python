@@ -5,7 +5,7 @@ description = "Package for integrating iam-service into python projects."
 authors = ["MrMihen13 <kmerezhnikov2002@yandex.ru>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.11"
 requests = "^2.31.0"
 pydantic = "^2.0.3"
 PyJWT = "^2.7.0"
